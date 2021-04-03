@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1617438312 source:c:\users\zveki\desktop\projektnizadatak\komercijalista.cpp
+	"komercijalista.hpp"
+
+1617438312 c:\users\zveki\desktop\projektnizadatak\komercijalista.hpp
+	"radnik.hpp"
+	<list>
+
+1617438313 c:\users\zveki\desktop\projektnizadatak\radnik.hpp
+	<string>
+	<iostream>
+
+1617439147 source:c:\users\zveki\desktop\projektnizadatak\main.cpp
+	<iostream>
+	"radnik.hpp"
+	"racunovodja.hpp"
+	"komercijalista.hpp"
+	"revizor.hpp"
+
+1617438313 c:\users\zveki\desktop\projektnizadatak\racunovodja.hpp
+	"radnik.hpp"
+
+1617438313 c:\users\zveki\desktop\projektnizadatak\revizor.hpp
+	"radnik.hpp"
+	<list>
+
+1617438313 source:c:\users\zveki\desktop\projektnizadatak\racunovodja.cpp
+	"racunovodja.hpp"
+
+1617438313 source:c:\users\zveki\desktop\projektnizadatak\radnik.cpp
+	"radnik.hpp"
+
+1617438313 source:c:\users\zveki\desktop\projektnizadatak\revizor.cpp
+	"revizor.hpp"
+
+1617438312 source:c:\users\zveki\desktop\projektnizadatak_2019_271689\komercijalista.cpp
+	"komercijalista.hpp"
+
+1617438312 c:\users\zveki\desktop\projektnizadatak_2019_271689\komercijalista.hpp
+	"radnik.hpp"
+	<list>
+
+1617438313 c:\users\zveki\desktop\projektnizadatak_2019_271689\radnik.hpp
+	<string>
+	<iostream>
+
+1617439147 source:c:\users\zveki\desktop\projektnizadatak_2019_271689\main.cpp
+	<iostream>
+	"radnik.hpp"
+	"racunovodja.hpp"
+	"komercijalista.hpp"
+	"revizor.hpp"
+
+1617438313 c:\users\zveki\desktop\projektnizadatak_2019_271689\racunovodja.hpp
+	"radnik.hpp"
+
+1617438313 c:\users\zveki\desktop\projektnizadatak_2019_271689\revizor.hpp
+	"radnik.hpp"
+	<list>
+
+1617438313 source:c:\users\zveki\desktop\projektnizadatak_2019_271689\racunovodja.cpp
+	"racunovodja.hpp"
+
+1617438313 source:c:\users\zveki\desktop\projektnizadatak_2019_271689\radnik.cpp
+	"radnik.hpp"
+
+1617438313 source:c:\users\zveki\desktop\projektnizadatak_2019_271689\revizor.cpp
+	"revizor.hpp"
+
+1617438312 source:c:\users\zveki\desktop\shahdas\projektnizadatak_2019_2716899 - copy\komercijalista.cpp
+	"komercijalista.hpp"
+
+1617438312 c:\users\zveki\desktop\shahdas\projektnizadatak_2019_2716899 - copy\komercijalista.hpp
+	"radnik.hpp"
+	<list>
+
+1617438313 c:\users\zveki\desktop\shahdas\projektnizadatak_2019_2716899 - copy\radnik.hpp
+	<string>
+	<iostream>
+
+1617439147 source:c:\users\zveki\desktop\shahdas\projektnizadatak_2019_2716899 - copy\main.cpp
+	<iostream>
+	"radnik.hpp"
+	"racunovodja.hpp"
+	"komercijalista.hpp"
+	"revizor.hpp"
+
+1617438313 c:\users\zveki\desktop\shahdas\projektnizadatak_2019_2716899 - copy\racunovodja.hpp
+	"radnik.hpp"
+
+1617438313 c:\users\zveki\desktop\shahdas\projektnizadatak_2019_2716899 - copy\revizor.hpp
+	"radnik.hpp"
+	<list>
+
+1617438313 source:c:\users\zveki\desktop\shahdas\projektnizadatak_2019_2716899 - copy\racunovodja.cpp
+	"racunovodja.hpp"
+
+1617438313 source:c:\users\zveki\desktop\shahdas\projektnizadatak_2019_2716899 - copy\radnik.cpp
+	"radnik.hpp"
+
+1617438313 source:c:\users\zveki\desktop\shahdas\projektnizadatak_2019_2716899 - copy\revizor.cpp
+	"revizor.hpp"
+
